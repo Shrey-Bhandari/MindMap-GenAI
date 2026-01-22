@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# venv
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Data outputs (keep raw_ppts but ignore processed artifacts)
+data/processed/
+
+# Logs
+*.log
